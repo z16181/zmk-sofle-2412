@@ -195,3 +195,16 @@ layers:
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [10, 11]
+  k: F12
+  l: [LAYER0]
+- p: [11, 12]
+  k: $$mdi:backspace-reverse-outline$$
+  l: [LAYER0]
+- p: [23, 24]
+  k: {t: '[', s: '{'}
+  l: [LAYER0]
+- p: [24, 25]
+  k: {t: ']', s: '}'}
+  l: [LAYER0]
