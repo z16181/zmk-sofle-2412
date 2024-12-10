@@ -102,6 +102,7 @@
             #binding-cells = <0>;
             bindings = <&kp N1 &kp N5 &kp N0 &kp N6 &kp N3 &kp N3 &kp N5 &kp N7 &kp N6 &kp N9 &kp N5>;
             label = "NEW_MACRO";
+            wait-ms = <20>;
         };
 
         macro_mailagent: macro_mailagent {
@@ -109,6 +110,7 @@
             #binding-cells = <0>;
             bindings = <&kp A &kp G &kp E &kp N &kp T &kp UNDER &kp Z &kp H &kp A &kp N &kp G &kp L &kp I &kp A &kp N &kp G &kp AT &kp N1 &kp N2 &kp N6 &kp DOT &kp C &kp O &kp M>;
             label = "MACRO_MAILAGENT";
+            wait-ms = <20>;
         };
 
         marco_maila126: marco_mailsdnu {
@@ -116,6 +118,7 @@
             #binding-cells = <0>;
             bindings = <&kp A &kp N1 &kp N6 &kp N9 &kp N3 &kp N6 &kp N1 &kp AT &kp N1 &kp N2 &kp N6 &kp DOT &kp C &kp O &kp M>;
             label = "MARCO_MAILSDNU";
+            wait-ms = <20>;
         };
 
         macro_mailsdnu: macro_mailsdnu {
@@ -123,6 +126,7 @@
             #binding-cells = <0>;
             bindings = <&kp Z &kp H &kp A &kp N &kp G &kp L &kp I &kp A &kp N &kp G &kp N1 &kp AT &kp S &kp D &kp N &kp U &kp DOT &kp E &kp D &kp U &kp DOT &kp C &kp N>;
             label = "MACRO_MAILSDNU";
+            wait-ms = <20>;
         };
     };
 
