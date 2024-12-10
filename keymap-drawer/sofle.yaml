@@ -208,3 +208,18 @@ combos:
 - p: [24, 25]
   k: {t: ']', s: '}'}
   l: [LAYER0]
+- p: [27, 28]
+  k: Ctl+ S
+  l: [LAYER0]
+- p: [40, 41]
+  k: Ctl+ Z
+  l: [LAYER0]
+- p: [41, 42]
+  k: Ctl+ C
+  l: [LAYER0]
+- p: [42, 43]
+  k: Ctl+ V
+  l: [LAYER0]
+- p: [29, 30]
+  k: Ctl+ F
+  l: [LAYER0]
