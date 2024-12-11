@@ -153,7 +153,7 @@ layers:
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&msc SCROLL_UP'
+  - {t: '$$mdi:transfer$$', type: trans}
   - F12
   - +
   - _
@@ -165,9 +165,9 @@ layers:
   - $$mdi:mouse-right-click-outline$$
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - '&mwh SCROLL_LEFT'
-  - '&msc SCROLL_DOWN'
-  - '&msc SCROLL_RIGHT'
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:transfer$$', type: trans}
   - '{'
   - '}'
   - {t: '$$mdi:transfer$$', type: trans}
