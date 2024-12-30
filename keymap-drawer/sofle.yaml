@@ -87,9 +87,9 @@ layers:
   - '&mkp MB4'
   - PgDn
   - PG UP
-  - END
-  - $$mdi:arrow-up-bold$$
   - HOME
+  - $$mdi:arrow-up-bold$$
+  - END
   - \
   - {t: '=', s: +}
   - CLCK
@@ -209,19 +209,19 @@ combos:
   k: {t: ']', s: '}'}
   l: [LAYER0]
 - p: [27, 28]
-  k: Ctl+ S
+  k: Ctl+S
   l: [LAYER0]
 - p: [40, 41]
-  k: Ctl+ Z
+  k: Ctl+Z
   l: [LAYER0]
 - p: [41, 42]
-  k: Ctl+ C
+  k: Ctl+C
   l: [LAYER0]
 - p: [42, 43]
-  k: Ctl+ V
+  k: Ctl+V
   l: [LAYER0]
 - p: [29, 30]
-  k: Ctl+ F
+  k: Ctl+F
   l: [LAYER0]
 - p: [9, 10]
   k: (
@@ -230,4 +230,4 @@ combos:
 - p: [13, 14]
   k: {t: '`', s: '~'}
 - p: [39, 26]
-  k: Ctl+ $$mdi:apple-keyboard-shift$$
+  k: Ctl+$$mdi:apple-keyboard-shift$$
