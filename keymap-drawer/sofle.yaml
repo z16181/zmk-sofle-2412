@@ -87,9 +87,9 @@ layers:
   - '&mkp MB4'
   - PgDn
   - PG UP
-  - HOME
-  - $$mdi:arrow-up-bold$$
   - END
+  - $$mdi:arrow-up-bold$$
+  - HOME
   - \
   - {t: '=', s: +}
   - CLCK
