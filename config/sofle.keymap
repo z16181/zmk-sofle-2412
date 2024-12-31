@@ -176,7 +176,7 @@
 &trans      &kp GRAVE        &mkp LCLK       &mkp MCLK        &mkp RCLK        &mkp MB4           &kp PAGE_DOWN  &kp PG_UP        &kp HOME         &kp UP      &kp END    &kp NON_US_BACKSLASH  &kp EQUAL
 &kp CLCK    &kp TILDE        &trans          &trans           &trans           &mkp MB5           &kp HOME       &kp PG_DN        &kp LEFT         &kp DOWN    &kp RIGHT  &kp LEFT_BRACKET      &kp RIGHT_BRACKET
 &trans      &rgb_ug RGB_OFF  &rgb_ug RGB_ON  &rgb_ug RGB_EFF  &rgb_ug RGB_EFR  &rgb_ug RGB_SPI    &kp END        &rgb_ug RGB_BRI  &rgb_ug RGB_BRD  &kp INSERT  &trans     &kp F11               &kp F12
-&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &trans         &trans           &trans           &trans      &trans     &trans
+&kp C_MUTE  &trans           &trans          &trans           &trans           &trans             &kp K_CMENU    &trans           &trans           &trans      &trans     &trans
             >;
 
             display-name = "layer1";
