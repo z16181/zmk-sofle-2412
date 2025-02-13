@@ -91,7 +91,7 @@ layers:
   - $$mdi:arrow-up-bold$$
   - END
   - \
-  - {t: '=', s: +}
+  - +
   - CLCK
   - '~'
   - {t: '$$mdi:transfer$$', type: trans}
@@ -155,8 +155,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - '&msc MOVE_UP'
   - F12
-  - +
-  - _
+  - '|'
+  - {t: '=', s: +}
   - {type: held}
   - OUT USB
   - OUT BLE
@@ -231,7 +231,5 @@ combos:
   k: {t: '`', s: '~'}
 - p: [39, 26]
   k: Ctl+$$mdi:apple-keyboard-shift$$
-- p: [1, 2]
-  k: F6
 - p: [7, 8]
   k: F6
