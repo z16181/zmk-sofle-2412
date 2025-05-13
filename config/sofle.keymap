@@ -95,13 +95,8 @@
             layers = <0>;
         };
 
-        a89-leftparenth {
-            bindings = <&kp LEFT_PARENTHESIS>;
-            key-positions = <9 10>;
-        };
-
-        a90-rightparenth {
-            bindings = <&kp RIGHT_PARENTHESIS>;
+        a90-doubleparenth {
+            bindings = <&macro_double_kuohao>;
             key-positions = <11 10>;
         };
 
@@ -157,6 +152,15 @@
             wait-ms = <10>;
             tap-ms = <10>;
         };
+		
+        macro_double_kuohao: macro_double_kuohao {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &kp LEFT_ARROW>;
+            label = "MACRO_DOUBLE_KUOHAO";
+            wait-ms = <10>;
+            tap-ms = <10>;
+        };				
     };
 
     keymap {

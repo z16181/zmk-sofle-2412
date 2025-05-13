@@ -1,4 +1,4 @@
-layout: {qmk_keyboard: sofle/rev1}
+layout: {zmk_keyboard: sofle}
 layers:
   LAYER0:
   - $$mdi:keyboard-esc$$
@@ -223,10 +223,8 @@ combos:
 - p: [29, 30]
   k: Ctl+F
   l: [LAYER0]
-- p: [9, 10]
-  k: (
 - p: [11, 10]
-  k: )
+  k: '&macro_double_kuohao'
 - p: [13, 14]
   k: {t: '`', s: '~'}
 - p: [39, 26]
