@@ -669,23 +669,19 @@ rect.held, rect.combo.held {
 <text x="224" y="144" class="combo tap">Ctl+F</text>
 </g>
 <g class="combo combopos-9">
-<rect rx="6" ry="6" x="742" y="18" width="28" height="26" class="combo"/>
-<text x="756" y="32" class="combo tap">(</text>
+<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
+<text x="812" y="46" class="combo tap"><tspan style="font-size: 60%">&amp;macro_do…</tspan></text>
 </g>
 <g class="combo combopos-10">
-<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
-<text x="812" y="46" class="combo tap">)</text>
-</g>
-<g class="combo combopos-11">
 <rect rx="6" ry="6" x="42" y="99" width="28" height="26" class="combo"/>
 <text x="56" y="112" class="combo tap">`</text>
 <text x="56" y="101" class="combo shifted">~</text>
 </g>
-<g class="combo combopos-12">
+<g class="combo combopos-11">
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
-<g class="combo combopos-13">
+<g class="combo combopos-12">
 <rect rx="6" ry="6" x="630" y="22" width="28" height="26" class="combo"/>
 <text x="644" y="35" class="combo tap">F6</text>
 </g>
@@ -1042,23 +1038,19 @@ rect.held, rect.combo.held {
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="742" y="18" width="28" height="26" class="combo"/>
-<text x="756" y="32" class="combo tap">(</text>
+<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
+<text x="812" y="46" class="combo tap"><tspan style="font-size: 60%">&amp;macro_do…</tspan></text>
 </g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
-<text x="812" y="46" class="combo tap">)</text>
-</g>
-<g class="combo combopos-2">
 <rect rx="6" ry="6" x="42" y="99" width="28" height="26" class="combo"/>
 <text x="56" y="112" class="combo tap">`</text>
 <text x="56" y="101" class="combo shifted">~</text>
 </g>
-<g class="combo combopos-3">
+<g class="combo combopos-2">
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
-<g class="combo combopos-4">
+<g class="combo combopos-3">
 <rect rx="6" ry="6" x="630" y="22" width="28" height="26" class="combo"/>
 <text x="644" y="35" class="combo tap">F6</text>
 </g>
@@ -1411,23 +1403,19 @@ rect.held, rect.combo.held {
 <use href="#mdi:transfer" xlink:href="#mdi:transfer" x="-9" y="-13" height="18" width="18.0" class="key trans tap glyph mdi:transfer"/>
 </g>
 <g class="combo combopos-0">
-<rect rx="6" ry="6" x="742" y="18" width="28" height="26" class="combo"/>
-<text x="756" y="32" class="combo tap">(</text>
+<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
+<text x="812" y="46" class="combo tap"><tspan style="font-size: 60%">&amp;macro_do…</tspan></text>
 </g>
 <g class="combo combopos-1">
-<rect rx="6" ry="6" x="798" y="33" width="28" height="26" class="combo"/>
-<text x="812" y="46" class="combo tap">)</text>
-</g>
-<g class="combo combopos-2">
 <rect rx="6" ry="6" x="42" y="99" width="28" height="26" class="combo"/>
 <text x="56" y="112" class="combo tap">`</text>
 <text x="56" y="101" class="combo shifted">~</text>
 </g>
-<g class="combo combopos-3">
+<g class="combo combopos-2">
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
-<g class="combo combopos-4">
+<g class="combo combopos-3">
 <rect rx="6" ry="6" x="630" y="22" width="28" height="26" class="combo"/>
 <text x="644" y="35" class="combo tap">F6</text>
 </g>
