@@ -156,7 +156,7 @@
         macro_double_kuohao: macro_double_kuohao {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS>;
+            bindings = <&kp LEFT_PARENTHESIS &kp RIGHT_PARENTHESIS &kp LEFT_ARROW>;
             label = "MACRO_DOUBLE_KUOHAO";
             wait-ms = <10>;
             tap-ms = <10>;
