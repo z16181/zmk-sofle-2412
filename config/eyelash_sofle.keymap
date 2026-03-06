@@ -47,6 +47,69 @@
             bindings = <&soft_off>;
             key-positions = <14 28 40>;
         };
+
+        del {
+            bindings = <&kp DEL>;
+            key-positions = <11 12>;
+            layers = <0>;
+        };
+
+        op-leftbrack {
+            bindings = <&kp LEFT_BRACKET>;
+            key-positions = <23 24>;
+            layers = <0>;
+        };
+
+        p--rightbrack {
+            bindings = <&kp RIGHT_BRACKET>;
+            key-positions = <24 25>;
+            layers = <0>;
+        };
+
+        as-toSave {
+            bindings = <&kp LC(S)>;
+            key-positions = <27 28>;
+            layers = <0>;
+        };
+
+        zx-toCancel {
+            bindings = <&kp LC(Z)>;
+            key-positions = <40 41>;
+            layers = <0>;
+        };
+
+        xc-toCopy {
+            bindings = <&kp LC(C)>;
+            key-positions = <41 42>;
+            layers = <0>;
+        };
+
+        cv-toPaste {
+            bindings = <&kp LC(V)>;
+            key-positions = <42 43>;
+            layers = <0>;
+        };
+
+        df-toFind {
+            bindings = <&kp LC(F)>;
+            key-positions = <29 30>;
+            layers = <0>;
+        };
+
+        a90-doubleparenth {
+            bindings = <&macro_double_kuohao>;
+            key-positions = <11 10>;
+        };
+
+        atabq-grave {
+            bindings = <&kp GRAVE>;
+            key-positions = <13 14>;
+        };
+
+        ctrlShift {
+            bindings = <&kp LC(LEFT_SHIFT)>;
+            key-positions = <39 26>;
+        };
     };
 
     macros {
