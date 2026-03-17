@@ -358,3 +358,9 @@ combos:
   k: {t: '`', s: '~'}
 - p: [39, 26]
   k: Ctl+$$mdi:apple-keyboard-shift$$
+- p: [51, 50]
+  k: F12
+- p: [17, 18]
+  k: Ctl+Alt+M
+- p: [17, 16]
+  k: Ctl+Sft+E

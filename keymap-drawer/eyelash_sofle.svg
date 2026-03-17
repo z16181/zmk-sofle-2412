@@ -682,6 +682,22 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-12">
+<rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
+<text x="868" y="224" class="combo tap">F12</text>
+</g>
+<g class="combo combopos-13">
+<rect rx="6" ry="6" x="266" y="78" width="28" height="26" class="combo"/>
+<text x="280" y="91" class="combo tap">
+<tspan x="280" dy="-0.6em">Ctl+</tspan><tspan x="280" dy="1.2em">Alt+M</tspan>
+</text>
+</g>
+<g class="combo combopos-14">
+<rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em">Ctl+</tspan><tspan x="224" dy="1.2em">Sft+E</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-layer1">
@@ -1052,6 +1068,22 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
+<text x="868" y="224" class="combo tap">F12</text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="78" width="28" height="26" class="combo"/>
+<text x="280" y="91" class="combo tap">
+<tspan x="280" dy="-0.6em">Ctl+</tspan><tspan x="280" dy="1.2em">Alt+M</tspan>
+</text>
+</g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em">Ctl+</tspan><tspan x="224" dy="1.2em">Sft+E</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-layer2">
@@ -1417,6 +1449,22 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
+<text x="868" y="224" class="combo tap">F12</text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="78" width="28" height="26" class="combo"/>
+<text x="280" y="91" class="combo tap">
+<tspan x="280" dy="-0.6em">Ctl+</tspan><tspan x="280" dy="1.2em">Alt+M</tspan>
+</text>
+</g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em">Ctl+</tspan><tspan x="224" dy="1.2em">Sft+E</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1165)" class="layer-layer3">
@@ -1760,6 +1808,22 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
 </g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
+<text x="868" y="224" class="combo tap">F12</text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="78" width="28" height="26" class="combo"/>
+<text x="280" y="91" class="combo tap">
+<tspan x="280" dy="-0.6em">Ctl+</tspan><tspan x="280" dy="1.2em">Alt+M</tspan>
+</text>
+</g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em">Ctl+</tspan><tspan x="224" dy="1.2em">Sft+E</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1553)" class="layer-layer4">
@@ -2102,6 +2166,22 @@ rect.held, rect.combo.held {
 <g class="combo combopos-3">
 <rect rx="6" ry="6" x="14" y="183" width="28" height="26" class="combo"/>
 <use href="#mdi:apple-keyboard-shift" xlink:href="#mdi:apple-keyboard-shift" x="19" y="187" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-shift"/>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="854" y="211" width="28" height="26" class="combo"/>
+<text x="868" y="224" class="combo tap">F12</text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="78" width="28" height="26" class="combo"/>
+<text x="280" y="91" class="combo tap">
+<tspan x="280" dy="-0.6em">Ctl+</tspan><tspan x="280" dy="1.2em">Alt+M</tspan>
+</text>
+</g>
+<g class="combo combopos-6">
+<rect rx="6" ry="6" x="210" y="74" width="28" height="26" class="combo"/>
+<text x="224" y="88" class="combo tap">
+<tspan x="224" dy="-0.6em">Ctl+</tspan><tspan x="224" dy="1.2em">Sft+E</tspan>
+</text>
 </g>
 </g>
 </g>
