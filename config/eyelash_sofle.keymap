@@ -118,12 +118,12 @@
 
         add-comment {
             bindings = <&kp LC(LA(M))>;
-            key-positions = <17 18>;
+            key-positions = <17 16>;
         };
 
         word-modi {
             bindings = <&kp LC(LS(E))>;
-            key-positions = <17 16>;
+            key-positions = <17 18>;
         };
     };
 
