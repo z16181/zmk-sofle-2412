@@ -118,12 +118,14 @@
 
         add-comment {
             bindings = <&kp LC(LA(M))>;
-            key-positions = <17 16>;
+            key-positions = <17 21>;
+            require-prior-idle-ms = <300>;
         };
 
         word-modi {
             bindings = <&kp LC(LS(E))>;
-            key-positions = <17 18>;
+            key-positions = <18 20>;
+            require-prior-idle-ms = <300>;
         };
     };
 
